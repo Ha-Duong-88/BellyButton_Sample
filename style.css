@@ -1,0 +1,22 @@
+body {
+  background-color: #438F96;
+}
+
+  .jumbotron {
+    background-image: url("image/belly_button.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+    background-color: #438F96;
+  }
+
+@font-face { font-family: Delicious; src: url('Delicious-Roman.otf'); } 
+@font-face { font-family: Delicious; font-weight: bold; src: url('Delicious-Bold.otf');}
+  
+  
+  
+  
+  
+  
+  
+  
+  
