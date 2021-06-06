@@ -147,7 +147,7 @@ function buildCharts(sample) {
     var trace3 = {
       domain: {x:[0,1], y:[0,1]},
       value : wfreq,
-      title: "<b> Belly Button Washing Frequency</b> <br>Scrubs Per Week",
+      title: "<b>Belly Button Washing Frequency</b> <br>Scrubs Per Week",
       type: "indicator",
       mode: "gauge+number",
       gauge: {
