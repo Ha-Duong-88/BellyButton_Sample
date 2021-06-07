@@ -1,9 +1,9 @@
 # Belly Button Biodiversity Project
 
 # Project Overview
-The objective of this project was to build customisable and interactive dashboards to visualize the analysis of a study performed on Operational Taxonomic units (OTUs), a species of micro organisms present in humans.
+The objective of this project was to build interactive dashboards to visualize the analysis of a study performed on Operational Taxonomic Units (OTUs), a species of micro organisms present in humans.
 
-The project involved using Plotly.js and D3 JavaScript libraries to create highly customizable and dynamic charts, JavaScript to perform operations on the data such as mapping, slicing, filtering, sorting, reversing sort order, parsing functions to the JSON dataset to select the specific data in order to build different types of interactive charts, build a drop-down menu, create the plots, and deploy the code. The web page was created using HTML to render the dashboard and charts and CSS to stylize the web page design such as adding images and customizin the background color, font styles and colors. Finally, the project code was deployed to GitHub Pages
+The project involved using Plotly.js and D3 JavaScript libraries to create highly customizable and dynamic charts, JavaScript to perform operations on the data such as mapping, slicing, filtering, sorting, reversing sort order, and parsing functions to the JSON dataset to select the specific data in order to build different types of interactive charts, build a drop-down menu, create the plots, and deploy the code. The web page was created using HTML to render the dashboard and charts, and CSS to stylize the web page design such as adding images, background color, font styles and colors. Finally, the project code was deployed to GitHub Pages.
 
 # Results
 
