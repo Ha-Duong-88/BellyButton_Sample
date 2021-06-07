@@ -7,7 +7,7 @@ The project involved using Plotly.js and D3 JavaScript libraries to create highl
 
 # Results
 
-Below is an example of the dynamic dashboard with three types of charts: bar, bauge, and bubble charts. Each chart is interactive based on the data selected in the drop-down menu. To inspect the data, end-users can select a specific test subject ID in the drop-down menu. Depending on the filter criteria, the Demographic Information panel will display metadata for the top 10 otu_ids and map them in descending order so the otu_ids with the most bacteria are last for the selected individual test subject ID, and the charts will dynamically display the results. The bar chart shos the top 10 bacteria cultures found, the bubble chart shows the bacteria cultures per test sample, and the gauge chart displays the weekly washing frequency.
+Below is an example of the dynamic dashboard with three types of charts: bar, bauge, and bubble charts. Each chart is interactive based on the data selected in the drop-down menu. To inspect the data, end-users can select a specific test subject ID in the drop-down menu. Depending on the filter criteria, the Demographic Information panel will display metadata for the top 10 otu_ids and map them in descending order so the otu_ids with the most bacteria are last for the selected individual test subject ID, and the charts will dynamically display the results. The bar chart shows the top 10 bacteria cultures found, the bubble chart shows the bacteria cultures per test sample, and the gauge chart displays the weekly washing frequency.
 
 
 Plotly.png![Plotly](https://user-images.githubusercontent.com/80140082/120938091-100c5500-c6c6-11eb-8012-625b983594b4.png)
